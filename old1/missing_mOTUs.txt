@@ -1,0 +1,2 @@
+meta_data/JS_LYG_bin_29.fna
+meta_data/JS_LYG_bin_44.fna

@@ -1,0 +1,13 @@
+prokka_out/FJ_XM_bin_114/FJ_XM_bin_114.gbk
+prokka_out/FJ_XM_bin_113/FJ_XM_bin_113.gbk
+prokka_out/FJ_XM_bin_104/FJ_XM_bin_104.gbk
+prokka_out/FJ_XM_bin_118/FJ_XM_bin_118.gbk
+prokka_out/FJ_XM_bin_105/FJ_XM_bin_105.gbk
+prokka_out/FJ_XM_bin_120/FJ_XM_bin_120.gbk
+prokka_out/FJ_XM_bin_37/FJ_XM_bin_37.gbk
+prokka_out/FJ_XM_bin_40/FJ_XM_bin_40.gbk
+prokka_out/FJ_XM_bin_39/FJ_XM_bin_39.gbk
+prokka_out/FJ_XM_bin_64/FJ_XM_bin_64.gbk
+prokka_out/FJ_XM_bin_66/FJ_XM_bin_66.gbk
+prokka_out/FJ_XM_bin_67/FJ_XM_bin_67.gbk
+prokka_out/GD_ST_bin_112/GD_ST_bin_112.gbk

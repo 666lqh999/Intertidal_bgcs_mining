@@ -1,0 +1,2 @@
+Mean BGC count: 3.46
+Median BGC count: 3.00

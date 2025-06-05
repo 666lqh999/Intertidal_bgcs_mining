@@ -1,0 +1,15 @@
+Total genomes: 2250
+Genomes without any BGC: 259 (11.5%)
+Genomes with ≥1 BGC: 1991
+
+Top10 genomes by BGC count:
+  GD_ST_bin_16: 78 BGCs
+  SD_DY_bin_208: 60 BGCs
+  SD_QD_bin_46: 44 BGCs
+  HN_SY_bin_96: 32 BGCs
+  SD_DY_bin_289: 31 BGCs
+  GD_ST_bin_180: 29 BGCs
+  JS_LYG_bin_80: 29 BGCs
+  SD_DY_bin_264: 27 BGCs
+  SD_DY_bin_340: 27 BGCs
+  SD_DY_bin_87: 24 BGCs
