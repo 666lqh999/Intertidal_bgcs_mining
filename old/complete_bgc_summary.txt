@@ -1,0 +1,6 @@
+Total BGCs: 7826
+Complete BGCs: 657
+Fragmented BGCs: 7169
+
+Total genomes: 2259
+Genomes with ≥1 Complete BGC: 380 (16.8%)

@@ -1,0 +1,14 @@
+Total genomes: 2259
+Total BGCs: 7826
+
+Mean BGC count: 3.46
+Median BGC count: 3.00
+
+Complete BGCs: 657
+Fragmented BGCs: 7169
+
+Genomes without any BGC: 259 (11.5%)
+Genomes with ≥1 BGC: 2000
+Genomes with ≥1 Complete BGC: 380 (16.8%)
+
+

@@ -1,0 +1,3 @@
+Total genomes: 2259
+Genomes without any BGC: 259 (11.5%)
+Genomes with ≥1 BGC: 2000
